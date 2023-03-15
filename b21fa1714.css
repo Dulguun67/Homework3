@@ -1,0 +1,61 @@
+header{ 
+		font-family:"Times new roman" , serif;
+		display: flex;
+	position: absolute;
+	width: 100%;
+}
+.garchig{
+	font-family:"Times new roman" , serif;
+	font-size:100px;
+	margin-top: 110px;
+	margin-left: 80px;
+}
+.main-item1 {
+	width: 45%;
+}
+
+.main-item2 {
+	width: 55%;
+} 
+
+h2{
+	font-size: 70px;
+	color: blue;
+	font-family:"Times new roman" , serif;
+
+}
+h4{ 
+	font-family:"Times new roman" , serif; 
+	color: black;
+
+}
+section{
+	padding-top: 50px;
+	padding-left: 100px;
+}
+button{
+	border: none;
+	border-radius: 10px;
+    text-align: center;
+    display: inline-block;
+    font-size: 14px;
+    margin: 3px 4px;
+    cursor: pointer;
+}
+ #main-layout{
+ 	background-color: white;
+ 	display: flex;
+ 	justify-content: space-around;
+ 	align-content:stretch ;
+ } 
+ .Special_Bonuses {
+	color: white;
+	font-family:"Times new roman" , serif; 
+	margin: 9px 12px ;
+	background-color: blue;
+	border: 1px solid #92CDFF; 
+	padding: 10px 12px;
+	padding-top: 10px;
+	border-radius: 3px;
+}
+ 	
